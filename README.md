@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheandi&label=Profile%20views&color=0e75b6&style=flat" alt="dheandi" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://dheandi.github.io/Website-Personal/](https://dheandi.github.io/Website-Personal/)
+- 👨‍💻 All of my projects are available at [https://dheandi.github.io/Website-Personal/](https://ianmolionta.github.io/Web-profile/))
 
 - ⚡ Fun fact **I am Funny**
 
